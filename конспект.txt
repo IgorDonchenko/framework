@@ -1,0 +1,2 @@
+Запуск встроенного сервера для папки public и запустить файл в ней index.php
+php -S 0.0.0.0:8080 -t public public/index.php
